@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/moksha.iml" filepath="$PROJECT_DIR$/moksha.iml" />
+      <module fileurl="file://C:\moksha\moksha.iml" filepath="C:\moksha\moksha.iml" />
     </modules>
   </component>
 </project>
